@@ -1,6 +1,4 @@
 Just for a test
-<<<<<<< HEAD
 Greating a new branch is quick & simple
-=======
-Greating a new branch is quick AND simple.
->>>>>>> feature1
+
+
